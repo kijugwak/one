@@ -7,4 +7,4 @@ while True:
       print(results)
       
   except:
-    print("오류다 이색히야
+    print("오류다 이색히야")
